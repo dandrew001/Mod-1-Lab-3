@@ -11,7 +11,7 @@
  // email:  kingrijal1@gmail.com
 #include<iostream>
 #include<cstdlib>
-#include<TicTacToe.h>
+#include "TicTacToe.h"
 using namespace std;
 
 int main()// start the main() function
