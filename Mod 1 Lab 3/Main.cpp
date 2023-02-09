@@ -133,7 +133,7 @@ int main()// start the main() function
 		Draw();// checking the draw function
 		if (win() == 'X')// checking win function for X
 		{
-			cout << " X wins!" << endl;
+			cout << " Player X wins!" << endl;
 			break;// exit the loop
 		}
 		else if (win() == 'O')// checking win function for O
